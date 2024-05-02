@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997553167422",
+    "project_id": "cazp-2024a-sw-gr2",
+    "storage_bucket": "cazp-2024a-sw-gr2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997553167422:android:5faafb17bdef8ebc40856f",
+        "android_client_info": {
+          "package_name": "com.example.a2024aswgr2zpca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwDj13GcPwfDIhhpF1JrCVzPZiYy42JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
