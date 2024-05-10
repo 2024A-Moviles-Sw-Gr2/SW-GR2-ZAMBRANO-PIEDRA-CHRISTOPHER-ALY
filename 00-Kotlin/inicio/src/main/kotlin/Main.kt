@@ -105,3 +105,10 @@ class Suma( // Constructor Primario)
     this.soyPublicoExplicito
     soyPublicoImplicito  //this. OPCIONAL (propiedades, metodos)
 }
+
+//public fun sumar()Int{ modificar "public es opcional"
+fun sumar():Int{
+    val total = numeroUno + numeroDos
+    Suma.agregarHistorial(total)
+    agregarHistorial(total)
+}
