@@ -104,15 +104,6 @@ fun main(){
         .filter{ valorActual:Int ->
             //Expresion o condicion
             val mayoresACinco: Boolean = valorActual > 5
-
-    //REDUCE -> Valor acumulado
-    //[1,2,3,4,5] -> Acumular "Sumar" estos valores del arreglo
-    val respuestaReduce: Int = arregloDinamico
-        .reduce{ acumulado:Int, valorActual:Int ->
-            return@reduce (acumulado + valorActual) // -> Cambiar o usar logica de negocio
-        }
-    println(respuestaReduce);
-    // return@reduce acumulado + (itemCarrito.cantidad * itemCarrito.precio)
     return@filter mayoresACinco
     }
 
@@ -137,6 +128,15 @@ fun main(){
             return@all {valorActual > 5}
         }
     println(repuestaAll) // False
+
+    //REDUCE -> Valor acumulado
+    //[1,2,3,4,5] -> Acumular "Sumar" estos valores del arreglo
+    val respuestaReduce: Int = arregloDinamico
+        .reduce{ acumulado:Int, valorActual:Int ->
+            return@reduce (acumulado + valorActual) // -> Cambiar o usar logica de negocio
+        }
+    println(respuestaReduce);
+    // return@reduce acumulado + (itemCarrito.cantidad * itemCarrito.precio)
 }
 
 // void -> Unit
