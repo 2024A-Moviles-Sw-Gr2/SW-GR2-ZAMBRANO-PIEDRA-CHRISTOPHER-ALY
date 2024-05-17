@@ -101,8 +101,17 @@ fun main(){
     // 1) Devolcer una expresion (TRUE o FALSE)
     // 2) Nuevo arreglo FILTRADO 
     val respuestaFilter: List<Int> = arregloDinamico
-        .filter{}
+        .filter{ valorActual:Int ->
+            //Expresion o condicion
+            val mayoresACinco: Boolean = valorActual > 5
+            return@filter mayoresACinco
+        }
 
+    val respuestaFilterDos = arregloDinamico.filter { it <= 5 }
+    println(respuestaFilter)
+    println(respuestaFilterDos)
+
+    
     // OR AND
     // OR -> ANY (Alguno Cumplen?)
     // AND -> ALL (Todos Cumplen?)
