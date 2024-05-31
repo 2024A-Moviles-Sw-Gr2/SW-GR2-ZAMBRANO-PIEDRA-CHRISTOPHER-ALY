@@ -1,0 +1,5 @@
+1;true;Automotriz Biloxi;Biloxi;1451.6
+2;true;Reparaciones-Max;MoranValverde;514.0
+3;true;Autolujos;Ajavi;2511.1
+4;false;Renovauto;La Tola;1051.55
+5;false;Primauto;Napo;766.1
