@@ -1,0 +1,9 @@
+1;2;Chevrolet;Grand Vitara;false;64.7;true
+2;4;Chevrolet;Groove 2024;false;78.0;false
+3;1;Chevrolet;Onix;true;72.0;true
+4;1;Mazda;CX-5;false;102.1;true
+5;2;Mazda;Hatchback;true;100.1;true
+6;5;Toyota;Hilux;false;44.8;false
+7;3;Toyota;Tundra;true;55.62;true
+8;5;Toyota;Yaris;false;107.0;false
+9;4;Suzuki;Ignis;false;157.0;true

@@ -1,0 +1,10 @@
+1;2;Chevrolet;Grand-Vitara;FALSE;64.70;TRUE
+2;4;Chevrolet;Groove 2024;FALSE;78.0;FALSE
+3;1;Chevrolet;Onix;TRUE;72.0;TRUE
+4;1;Mazda;CX-5;FALSE;102.10;TRUE
+5;2;Mazda;Hatchback;TRUE;100.10;TRUE
+6;5;Toyota;Hilux;FALSE;44.80;FALSE
+7;3;Toyota;Tundra;TRUE;55.62;TRUE
+8;5;Toyota;Yaris;FALSE;107.0;FALSE
+9;4;Suzuki;Ignis;FALSE;157.0;TRUE
+10;2;Suzuki;Vitara;TRUE;58.62;TRUE
