@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175993985183",
+    "project_id": "proyecto-final-90aaf",
+    "storage_bucket": "proyecto-final-90aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175993985183:android:aa5f6fcee07819946eaaaa",
+        "android_client_info": {
+          "package_name": "com.example.examen02_mecanicaauto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM76qy5wwcWRZm1msXWH9E_WHk4hkuD_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

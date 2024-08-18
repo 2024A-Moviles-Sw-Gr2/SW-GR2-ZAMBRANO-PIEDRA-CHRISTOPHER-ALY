@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Examen02-MecanicaAuto</string>
+    <string name="title_activity_lista_autos">ListaAutos</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
